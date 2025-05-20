@@ -42,10 +42,3 @@ elif which_door == "B":
         print("You have fallen into a pit of daggers. Game over.")
 else:
     print("You have chosen a door that does not exist. Game over.")
-
-# Twitter post
-"""
-Day 3 of #100DaysOfCode: The Complete Python Pro Bootcamp, Conditional statements, 
-logical operators, code blocks and scope, the modulo operator
-"""
-
